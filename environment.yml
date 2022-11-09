@@ -2,7 +2,7 @@ name: 2IS081-environment
 channels:
   - conda-forge
 dependencies:
-  - python
+  - python=3.9
   - pip
   - pip:
     - pandas
