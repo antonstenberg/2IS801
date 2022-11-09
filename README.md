@@ -2,7 +2,7 @@
 
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/UppsalaIM/2IS068/main)
 
-This repository contains the lab notebooks for the 2IS081 Data Mining and Applied Machine Learning course.
+This repository contains notebooks for the 2IS081 Data Mining and Applied Machine Learning course.
 
 **Launch the notebooks on the cloud by clicking on the `launch binder` button above**.
 
