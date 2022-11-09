@@ -1,6 +1,6 @@
 {
   "name": "Lab 1 Analyzing Bokmässan Tweets",
-  "endpoint": "uu/2is063/au18/lab1test",
+  "endpoint": "uppsalaim/2is081/ht22/lab1",
   "src": [
     "Lab1_Analyzing_Bokmässan_Tweets.ipynb"
   ],

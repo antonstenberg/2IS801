@@ -1,6 +1,6 @@
 {
   "name": "Lab 4 Text Classification of Consumer Complaints",
-  "endpoint": "uu/2is063/au18/lab4test",
+  "endpoint": "uppsalaim/2is081/ht22/lab4",
   "src": [
     "Lab4_Text_Classification_of_Consumer_Complaints.ipynb"
   ],
