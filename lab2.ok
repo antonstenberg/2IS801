@@ -1,8 +1,8 @@
 {
-  "name": "Lab 2 Association Analysis for MatFörAlla",
-  "endpoint": "uppsalaim/2is081/ht22/lab2",
+  "name": "Lab 3 Classification and Regression",
+  "endpoint": "uppsalaim/2is081/ht22/lab3",
   "src": [
-    "Lab2_Association_analysis_for_MatFörAlla.ipynb"
+    "Lab3_Classification_and_Regression.ipynb"
   ],
   "tests": {
       "ok_tests/q*.py": "ok_test"
