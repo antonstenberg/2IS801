@@ -1,8 +1,8 @@
 {
-  "name": "Lab 3 Classification and Regression",
+  "name": "Lab 2 Classification and Regression",
   "endpoint": "uppsalaim/2is081/ht22/lab3",
   "src": [
-    "Lab3_Classification_and_Regression.ipynb"
+    "Lab2_Classification_and_Regression.ipynb"
   ],
   "tests": {
       "ok_tests/q*.py": "ok_test"
