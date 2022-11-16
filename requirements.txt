@@ -6,3 +6,4 @@ mlxtend
 graphviz
 okpy
 scikit-learn
+tweepy

@@ -13,3 +13,4 @@ dependencies:
     - graphviz
     - okpy
     - scikit-learn
+    - tweepy
