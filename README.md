@@ -1,6 +1,6 @@
 # 2IS081 notebooks
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/UppsalaIM/2IS081/main)
+[![Binder](https://mybinder.org/badge.svg)](https://ovh2.mybinder.org/v2/gh/UppsalaIM/2IS081/main)
 
 This repository contains notebooks for the 2IS081 Data Mining and Applied Machine Learning course.
 
